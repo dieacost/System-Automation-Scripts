@@ -7,3 +7,7 @@ import psutil
 import sys
 import time
 
+scbsv,e,snevciizjcajckeaj.cow.ojwc
+acwja,wnwa,ncjwlac
+cajw,njw,nka,ckw.ackalc
+cw amcjwa,cb
