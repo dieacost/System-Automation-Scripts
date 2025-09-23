@@ -5,6 +5,7 @@ Detect if a login comes from outside a trusted IP range (simulate whitelist).
 
 import subprocess
 import ipaddress
+import re
 
 # Define whitelist ranges
 whitelist = [
