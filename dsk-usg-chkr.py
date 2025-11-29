@@ -4,9 +4,6 @@ Print an alert if free space is < 20%.
 """
 
 import shutil
-from pathlib import Path
-import time
-import sys
 
 def check_disk_usage(disk):
     """Checks disk usage and prints an alert if free space is low."""
